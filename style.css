@@ -1,0 +1,17 @@
+*{
+    text-decoration: none!important;
+}
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(images/bg.png);
+    padding:1% 20%;
+}
+.l-text{
+    color:rgb(177, 166, 245);
+    text-shadow: 2px 1px 2px rgb(89, 10, 113);
+}
+.r-text{
+    color:rgb(177, 166, 245);
+    text-shadow: 2px 1px 2px rgb(52, 38, 171);
+    text-align: right;
+}
